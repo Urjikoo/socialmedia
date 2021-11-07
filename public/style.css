@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 80px;
+  word-wrap: break-word;
+  background-image: url("aa.png");
+}
+img {
+  height: 200px;
+}
+#content {
+  border: 2px solid black;
+}
